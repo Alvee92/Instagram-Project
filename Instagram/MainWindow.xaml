@@ -1,0 +1,8 @@
+﻿<Window x:Class="Instagram.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Sql" HorizontalAlignment="Left" Margin="135,74,0,0" VerticalAlignment="Top" Width="272" Click="Button_Click_2" Height="93"/>
+    </Grid>
+</Window>

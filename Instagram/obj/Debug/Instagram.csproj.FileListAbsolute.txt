@@ -1,0 +1,39 @@
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Instagram.exe.config
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Instagram.exe
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Instagram.pdb
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\MainWindow.baml
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\MainWindow.g.cs
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\App.g.cs
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram_MarkupCompile.cache
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram.g.resources
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram.Properties.Resources.resources
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram.csproj.GenerateResource.Cache
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram.exe
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram.pdb
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\InstaSharp.dll
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\InstaSharp.pdb
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\Instagram.csprojResolveAssemblyReference.cache
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\FSharp.Core.dll
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Newtonsoft.Json.FSharp.dll
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\NodaTime.dll
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\FSharp.Core.xml
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\Newtonsoft.Json.FSharp.xml
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\NodaTime.xml
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\FenetreSQL.baml
+C:\Users\Hakim\Documents\Visual Studio 2012\Projects\Instagram\Instagram\obj\Debug\FenetreSQL.g.cs
+C:\Users\Hakim\Documents\Instagram\Instagram\bin\Debug\Instagram.exe.config
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram.exe
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram.pdb
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram.csprojResolveAssemblyReference.cache
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\FenetreSQL.baml
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\MainWindow.baml
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\FenetreSQL.g.cs
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\MainWindow.g.cs
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\App.g.cs
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram_MarkupCompile.cache
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram.g.resources
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram.Properties.Resources.resources
+C:\Users\Hakim\Documents\Instagram\Instagram\obj\Debug\Instagram.csproj.GenerateResource.Cache

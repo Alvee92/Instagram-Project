@@ -1,0 +1,51 @@
+﻿<Window x:Class="Instagram.FenetreSQL"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FenetreSQL" Height="490" Width="300">
+    <StackPanel Orientation ="vertical" >
+        <StackPanel Orientation ="Horizontal" Height="192" Width="444" Margin="0,0,-152,0">
+            <StackPanel Orientation ="Vertical">
+                <Label Content="Serveur" Height="25"/>
+                <Label Content="Database" Height="30"/>
+                <Label Content="Login" Width="57"/>
+                <Label Content="Pass" />
+                <Label Content="Client Id" Height="32"/>
+                <Label Content ="Ville" />
+
+            </StackPanel>
+            <StackPanel Orientation ="Vertical">
+                <TextBox Height="23" x:Name="serveur" Width="211" Margin="0,0,0,5" Text ="vps102425.ovh.net"  />
+                <TextBox Height="23" x:Name="database" Width="210" Margin="0,0,0,5" Text= "isngr9"  />
+                <TextBox Height="23" x:Name="login" Width="210" Margin="0,0,0,5"  Text="isngr9" />
+                <TextBox Height="23" x:Name="pass" Width="210" Margin="0,0,0,5"  Text="PwDvEtRi" />
+                <TextBox Height="23" x:Name="clientId" Width="210" Margin="0,0,0,5"  Text="7c0d9cfdaf3849b7864ebf2f6f82ff75" />
+                <ComboBox x:Name="combobox1">
+                    <ComboBoxItem  Name="Paris">Lyon</ComboBoxItem>
+                    <ComboBoxItem  Name="Lyon">Paris</ComboBoxItem>
+                   
+                </ComboBox>
+
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Height="133" Width="445" Margin="0,0,-153,0">
+
+            <StackPanel Orientation=" horizontal">
+                <StackPanel Orientation="Vertical"/>
+                <StackPanel Orientation =" vertical"/>
+            </StackPanel>
+            <StackPanel Orientation= "horizontal"/>
+            <Button Content="Arreter" Margin="0,0,162,0" Click="Stop"/>
+
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Height="27"/>
+
+        <Button Content="Valider la recherche"    Name="Recherche"   Margin= "0,-30,0,10" Click="validation_Click" />
+        <Button Content="Réinitialiser temps" Click="ReinitialiserTemps"/>
+    </StackPanel>
+
+
+
+
+
+</Window>
